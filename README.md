@@ -21,6 +21,10 @@ The Project is focused on building and deploying AI applications with Amazon Web
 
 ## Project Highlights :
 
+
+![App Screenshot](https://github.com/masterwithhamza/Generative-AI-Project-Using-AWS-Bedrock-Lambda-And-API-Gateway/blob/main/ScreenShorts/diagram.JPG?raw=true)
+
+
 ## SS1
 ![App Screenshot](https://github.com/masterwithhamza/Generative-AI-Project-Using-AWS-Bedrock-Lambda-And-API-Gateway/blob/main/ScreenShorts/p1.png?raw=true)
 
